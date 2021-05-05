@@ -1,0 +1,6 @@
+Some random text
+
+It is read the same way it would be on 
+the rst file
+
+Is not updated in real time
